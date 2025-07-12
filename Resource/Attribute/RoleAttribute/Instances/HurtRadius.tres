@@ -1,0 +1,9 @@
+[gd_resource type="Resource" load_steps=2 format=3 uid="uid://cgwndwfll0kor"]
+
+[ext_resource type="Script" path="res://Resource/Attribute/RoleAttribute/BaseAttribute.gd" id="1_668d3"]
+
+[resource]
+script = ExtResource("1_668d3")
+id = 13
+attr_name = "受击范围"
+value_type = 1

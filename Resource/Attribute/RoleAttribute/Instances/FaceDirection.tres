@@ -1,0 +1,9 @@
+[gd_resource type="Resource" load_steps=2 format=3 uid="uid://bxobywokdwyga"]
+
+[ext_resource type="Script" path="res://Resource/Attribute/RoleAttribute/BaseAttribute.gd" id="1_c7dal"]
+
+[resource]
+script = ExtResource("1_c7dal")
+id = 22
+attr_name = "朝向"
+value_type = 2

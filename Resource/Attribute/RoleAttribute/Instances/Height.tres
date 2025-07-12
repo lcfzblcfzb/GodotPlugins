@@ -1,0 +1,9 @@
+[gd_resource type="Resource" load_steps=2 format=3 uid="uid://bficabjh7druj"]
+
+[ext_resource type="Script" path="res://Resource/Attribute/RoleAttribute/BaseAttribute.gd" id="1_eb1sl"]
+
+[resource]
+script = ExtResource("1_eb1sl")
+id = 15
+attr_name = "高度"
+value_type = 1

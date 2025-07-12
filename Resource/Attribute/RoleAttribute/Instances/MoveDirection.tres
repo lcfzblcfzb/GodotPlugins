@@ -1,0 +1,9 @@
+[gd_resource type="Resource" load_steps=2 format=3 uid="uid://b0yqsxqpg3fbh"]
+
+[ext_resource type="Script" path="res://Resource/Attribute/RoleAttribute/BaseAttribute.gd" id="1_g0dwx"]
+
+[resource]
+script = ExtResource("1_g0dwx")
+id = 21
+attr_name = "移动方向"
+value_type = 2

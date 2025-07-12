@@ -1,0 +1,10 @@
+[gd_resource type="Resource" load_steps=3 format=3 uid="uid://c10lprkidb7kn"]
+
+[ext_resource type="Script" path="res://Resource/Attribute/Values/BaseValue.gd" id="1_k6dhc"]
+[ext_resource type="Script" path="res://Attribute/Value/AttackIntervals.gd" id="2_gi38e"]
+
+[resource]
+script = ExtResource("1_k6dhc")
+id = 100
+value_name = "攻击间隔计算"
+script_obj = ExtResource("2_gi38e")

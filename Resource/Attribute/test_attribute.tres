@@ -1,0 +1,28 @@
+[gd_resource type="Resource" load_steps=2 format=3 uid="uid://b1n4whdmiqo2m"]
+
+[ext_resource type="Script" path="res://Resource/Attribute/NormalAttributeConfig.gd" id="1_t71ss"]
+
+[resource]
+script = ExtResource("1_t71ss")
+Health = 10
+MaxHealth = 10
+MoveSpeed = 0
+MoveDirection = Vector2(0, 0)
+FaceDirection = Vector2(1, 0)
+Damage = 1
+RollSpeed = 800.0
+RollTime = 0.4
+RunSpeed = 500.0
+SizeScale = 1.0
+AttackSpeed = 50.0
+HurtRadius = 5.0
+CollisionRadius = 4.0
+Split = 0.0
+Height = 16.0
+DamageType = 1
+PhysicsPower = 0.0
+MagicPower = 0.0
+SciencePower = 0.0
+SplitProb = 0.0
+SplitDmg = 0.0
+Special = 0.0

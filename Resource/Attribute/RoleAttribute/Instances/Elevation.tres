@@ -1,0 +1,9 @@
+[gd_resource type="Resource" load_steps=2 format=3 uid="uid://ba3yqbuf1siqd"]
+
+[ext_resource type="Script" path="res://Resource/Attribute/RoleAttribute/BaseAttribute.gd" id="1_2he7o"]
+
+[resource]
+script = ExtResource("1_2he7o")
+id = 16
+attr_name = "离地高度"
+value_type = 1

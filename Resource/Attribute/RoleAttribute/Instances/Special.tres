@@ -1,0 +1,9 @@
+[gd_resource type="Resource" load_steps=2 format=3 uid="uid://dqntkjldxinqr"]
+
+[ext_resource type="Script" path="res://Resource/Attribute/RoleAttribute/BaseAttribute.gd" id="1_3ursm"]
+
+[resource]
+script = ExtResource("1_3ursm")
+id = 45
+attr_name = "专长"
+value_type = 1

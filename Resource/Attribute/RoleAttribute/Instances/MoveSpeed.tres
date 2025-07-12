@@ -1,0 +1,9 @@
+[gd_resource type="Resource" load_steps=2 format=3 uid="uid://c16wr3xyxpvf2"]
+
+[ext_resource type="Script" path="res://Resource/Attribute/RoleAttribute/BaseAttribute.gd" id="1_wg1bo"]
+
+[resource]
+script = ExtResource("1_wg1bo")
+id = 20
+attr_name = "当前移动速度"
+value_type = 1
