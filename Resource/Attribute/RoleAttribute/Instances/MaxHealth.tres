@@ -1,9 +1,0 @@
-[gd_resource type="Resource" load_steps=2 format=3 uid="uid://dqtbxfnt1ce48"]
-
-[ext_resource type="Script" path="res://Resource/Attribute/RoleAttribute/BaseAttribute.gd" id="1_gh0xd"]
-
-[resource]
-script = ExtResource("1_gh0xd")
-id = 11
-attr_name = "最大生命值"
-value_type = 1

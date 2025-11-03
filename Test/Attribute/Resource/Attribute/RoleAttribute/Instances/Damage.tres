@@ -1,0 +1,9 @@
+[gd_resource type="Resource" load_steps=2 format=3 uid="uid://d03mmcbt0bdm"]
+
+[ext_resource type="Script" path="res://Test/Attribute/Resource/Attribute/RoleAttribute/BaseAttribute.gd" id="1_jkrl8"]
+
+[resource]
+script = ExtResource("1_jkrl8")
+id = 30
+attr_name = "伤害值"
+value_type = 101

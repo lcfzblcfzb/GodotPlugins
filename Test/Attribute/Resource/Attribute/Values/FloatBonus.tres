@@ -1,0 +1,10 @@
+[gd_resource type="Resource" load_steps=3 format=3 uid="uid://yiq74xfk8f0g"]
+
+[ext_resource type="Script" path="res://Test/Attribute/Resource/Attribute/Values/BaseValue.gd" id="1_0padw"]
+[ext_resource type="Script" path="res://Test/Attribute/Value/FloatBonus.gd" id="2_qvlcn"]
+
+[resource]
+script = ExtResource("1_0padw")
+id = 1
+value_name = "加成类型"
+script_obj = ExtResource("2_qvlcn")

@@ -1,0 +1,13 @@
+[gd_resource type="Resource" load_steps=7 format=3 uid="uid://eynnw02jeeo5"]
+
+[ext_resource type="Script" path="res://Tools/ArrayResourceCollection.gd" id="1_rh60h"]
+[ext_resource type="Resource" uid="uid://yiq74xfk8f0g" path="res://Test/Attribute/Resource/Attribute/Values/FloatBonus.tres" id="1_yn7mm"]
+[ext_resource type="Resource" uid="uid://c3c5ahifcp3fu" path="res://Test/Attribute/Resource/Attribute/Values/Vect2Static.tres" id="2_m7y71"]
+[ext_resource type="Resource" uid="uid://c10lprkidb7kn" path="res://Test/Attribute/Resource/Attribute/Values/AttackIntervals.tres" id="3_5scjs"]
+[ext_resource type="Resource" uid="uid://8v4arhe2ag6h" path="res://Test/Attribute/Resource/Attribute/Values/IntStatic.res" id="4_l7nxg"]
+[ext_resource type="Resource" uid="uid://c5umehvscc7v5" path="res://Test/Attribute/Resource/Attribute/Values/Damage.res" id="5_g6utu"]
+
+[resource]
+script = ExtResource("1_rh60h")
+list = Array[Resource]([ExtResource("3_5scjs"), ExtResource("5_g6utu"), ExtResource("1_yn7mm"), ExtResource("4_l7nxg"), ExtResource("2_m7y71")])
+id_prop = "id"

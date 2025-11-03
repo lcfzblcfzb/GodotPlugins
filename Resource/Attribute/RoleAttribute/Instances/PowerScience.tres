@@ -1,9 +1,0 @@
-[gd_resource type="Resource" load_steps=2 format=3 uid="uid://b2y614ebg3b5f"]
-
-[ext_resource type="Script" path="res://Resource/Attribute/RoleAttribute/BaseAttribute.gd" id="1_vlpse"]
-
-[resource]
-script = ExtResource("1_vlpse")
-id = 44
-attr_name = "科技"
-value_type = 1

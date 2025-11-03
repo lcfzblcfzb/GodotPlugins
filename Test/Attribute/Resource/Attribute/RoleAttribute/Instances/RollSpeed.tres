@@ -1,0 +1,9 @@
+[gd_resource type="Resource" load_steps=2 format=3 uid="uid://dvjfio4soymxu"]
+
+[ext_resource type="Script" path="res://Test/Attribute/Resource/Attribute/RoleAttribute/BaseAttribute.gd" id="1_ixpoh"]
+
+[resource]
+script = ExtResource("1_ixpoh")
+id = 23
+attr_name = "翻滚速度"
+value_type = 1

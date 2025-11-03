@@ -1,9 +1,0 @@
-[gd_resource type="Resource" load_steps=2 format=3 uid="uid://iev4yhyubf3g"]
-
-[ext_resource type="Script" path="res://Resource/Attribute/RoleAttribute/BaseAttribute.gd" id="1_5e8hs"]
-
-[resource]
-script = ExtResource("1_5e8hs")
-id = 24
-attr_name = "翻滚持续时间"
-value_type = 1

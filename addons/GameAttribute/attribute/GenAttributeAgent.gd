@@ -8,6 +8,7 @@ var  attribute_dict={}
 ## 初始化方法： init_param（字典类型）:  attribute_type-> attribute_init_params(字典类型） 
 func  pre_init(init_param,param_overide=null):
 	for attr in init_param:
+		var c = get_attribute_class()
 		var attribute =  get_attribute_class().new()
 		if param_overide and param_overide.has(attr):
 			attribute.init(attr,param_overide.get(attr),self)

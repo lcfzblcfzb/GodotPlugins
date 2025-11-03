@@ -1,0 +1,9 @@
+[gd_resource type="Resource" load_steps=2 format=3 uid="uid://bmpxgsuwiisfb"]
+
+[ext_resource type="Script" path="res://Test/Attribute/Resource/Attribute/RoleAttribute/BaseAttribute.gd" id="1_2cp28"]
+
+[resource]
+script = ExtResource("1_2cp28")
+id = 1
+attr_name = "等级"
+value_type = 1

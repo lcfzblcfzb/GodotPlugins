@@ -1,9 +1,0 @@
-[gd_resource type="Resource" load_steps=2 format=3 uid="uid://dnte3bn0lg3db"]
-
-[ext_resource type="Script" path="res://Resource/Attribute/RoleAttribute/BaseAttribute.gd" id="1_sx8ym"]
-
-[resource]
-script = ExtResource("1_sx8ym")
-id = 40
-attr_name = "攻击间隔"
-value_type = 100

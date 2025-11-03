@@ -1,0 +1,10 @@
+[gd_resource type="Resource" load_steps=3 format=3 uid="uid://c3c5ahifcp3fu"]
+
+[ext_resource type="Script" path="res://Test/Attribute/Resource/Attribute/Values/BaseValue.gd" id="1_83apk"]
+[ext_resource type="Script" path="res://Test/Attribute/Value/Vect2Static.gd" id="2_moo0s"]
+
+[resource]
+script = ExtResource("1_83apk")
+id = 2
+value_name = "固定vec2类型"
+script_obj = ExtResource("2_moo0s")

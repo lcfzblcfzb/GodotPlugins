@@ -1,0 +1,9 @@
+[gd_resource type="Resource" load_steps=2 format=3 uid="uid://b2ijop8dtlwyn"]
+
+[ext_resource type="Script" path="res://Test/Attribute/Resource/Attribute/RoleAttribute/BaseAttribute.gd" id="1_kdgpg"]
+
+[resource]
+script = ExtResource("1_kdgpg")
+id = 31
+attr_name = "分裂"
+value_type = 1

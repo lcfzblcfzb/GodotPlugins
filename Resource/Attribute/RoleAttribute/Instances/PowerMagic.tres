@@ -1,9 +1,0 @@
-[gd_resource type="Resource" load_steps=2 format=3 uid="uid://3vs3mh667dtv"]
-
-[ext_resource type="Script" path="res://Resource/Attribute/RoleAttribute/BaseAttribute.gd" id="1_a2tvv"]
-
-[resource]
-script = ExtResource("1_a2tvv")
-id = 43
-attr_name = "魔力"
-value_type = 1

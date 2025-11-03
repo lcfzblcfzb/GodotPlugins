@@ -1,0 +1,9 @@
+[gd_resource type="Resource" load_steps=2 format=3 uid="uid://ocqrvlheu137"]
+
+[ext_resource type="Script" path="res://Test/Attribute/Resource/Attribute/RoleAttribute/BaseAttribute.gd" id="1_n0py2"]
+
+[resource]
+script = ExtResource("1_n0py2")
+id = 25
+attr_name = "移动速度"
+value_type = 1
