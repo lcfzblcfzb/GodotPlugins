@@ -20,7 +20,7 @@ project/assembly_name="MyPlugins"
 
 [editor_plugins]
 
-enabled=PackedStringArray("res://addons/CsvManager/plugin.cfg", "res://addons/GameAttribute/plugin.cfg", "res://addons/gamemodifer/plugin.cfg")
+enabled=PackedStringArray()
 
 [rendering]
 

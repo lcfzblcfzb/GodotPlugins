@@ -4,7 +4,7 @@
 class_name GameModiferMng
 extends  ModiferMng
 
-const CSVTool = preload("res://addons/CsvManager/CsvTools.gd")
+const CSVTool = preload("res://CommonLibs/CsvManager/CsvTools.gd")
 
 #配置路径
 var modifer_config_file_path = "res://Test/Modifer/Resource/Modifer/ModiferCFG.csv"

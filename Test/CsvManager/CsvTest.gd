@@ -1,6 +1,6 @@
 extends Node2D
 ##工具
-const CSVTool = preload("res://addons/CsvManager/CsvTools.gd")
+const CSVTool = preload("res://CommonLibs/CsvManager/CsvTools.gd")
 ##打包类
 const Data = preload("res://Test/CsvManager/Data.gd")
 # Called when the node enters the scene tree for the first time.
