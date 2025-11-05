@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://piffti4n342t"]
+
+[ext_resource type="Script" path="res://Test/DictionaryHelper/DictionaryTest.gd" id="1_x4nsd"]
+
+[node name="DictionaryTest" type="Node2D"]
+script = ExtResource("1_x4nsd")
